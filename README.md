@@ -84,5 +84,5 @@ Your Samsung Galaxy S7 Edge is now running **PixelExperience (Android 11)** 🎉
 ## 📚 Sources
 
 * [XDA Guide](https://xdaforums.com/t/basic-guide-to-installing-twrp-root-and-rom-via-odin-on-s7-amd-s7-edge.3872644/)
-* [Button Guide](https://www.youtube.com/watch?v=fqDxBSRLEbQ)
+* [Buttons Guide](https://www.youtube.com/watch?v=fqDxBSRLEbQ)
 * [PixelExperience Installation](https://www.youtube.com/watch?v=Iu4xbmvABsY)
