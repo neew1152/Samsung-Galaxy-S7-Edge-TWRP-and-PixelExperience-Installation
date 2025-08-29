@@ -2,15 +2,12 @@
 
 This guide will help you install **TWRP Recovery** and then flash **PixelExperience (Android 11)** on the Samsung Galaxy S7 Edge (**hero2lte**).
 
-⚠️ **WARNING: This process will wipe all data on your device.**
-
-* Internal storage is erased when formatting data in TWRP.
+⚠️ **WARNING: This process will wipe internal storage on your device.**
 
 ---
 
 ## 🔧 Requirements
 
-* Samsung Galaxy S7 Edge (**hero2lte**)
 * Samsung USB Driver: [Download here](https://developer.samsung.com/android-usb-driver)
 * Odin Tool: [Download here](https://samsungodin.com/download)
 * TWRP Image: [Download here](https://dl.twrp.me/hero2ltekor/twrp-3.7.0_9-0-hero2ltekor.img.tar.html)
