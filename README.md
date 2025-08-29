@@ -57,17 +57,16 @@ This guide will help you install **TWRP Recovery** and then flash **PixelExperie
 
 ## 📲 Step 3 – Install PixelExperience (Android 11)
 
-1. **Swipe to Allow Modifications**
+1. In TWRP, **Swipe to Allow Modifications**
 2. Go to **Wipe > Swipe to Factory Reset**
-3. **Transfer ROM**
+3. Copy `PixelExperience_hero2lte-11.0-20210923-1630-OFFICIAL.zip` to `This PC\Galaxy S7 edge\Internal Storage`
 
-   * Copy `PixelExperience_hero2lte-11.0-20210923-1630-OFFICIAL.zip`
-   * Place it in **Internal Storage** (`This PC\Galaxy S7 edge\Internal Storage`)
 4. **Flash ROM**
 
    * In TWRP, go to **Install > /sdcard**
    * Select the PixelExperience `.zip` file
    * Swipe to confirm Flash
+
 5. **Reboot System**
 
 ---
