@@ -59,15 +59,20 @@ This guide will help you install **TWRP Recovery** and then flash **PixelExperie
 
 1. In TWRP, **Swipe to Allow Modifications**
 2. Go to **Wipe > Swipe to Factory Reset**
-3. Copy `PixelExperience_hero2lte-11.0-20210923-1630-OFFICIAL.zip` to `This PC\Galaxy S7 edge\Internal Storage`
+3. Go to **Wipe > Advanced Wipe**
+   * Dalvik / ART Cache
+   * System
+   * Data
+   * Cache
+4. Copy `PixelExperience_hero2lte-11.0-20210923-1630-OFFICIAL.zip` to `This PC\Galaxy S7 edge\Internal Storage`
 
-4. **Flash ROM**
+5. **Flash ROM**
 
    * In TWRP, go to **Install > /sdcard**
    * Select the PixelExperience `.zip` file
    * Swipe to confirm Flash
 
-5. **Reboot System**
+6. **Reboot System**
 
 ---
 
