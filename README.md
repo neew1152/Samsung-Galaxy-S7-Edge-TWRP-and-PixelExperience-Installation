@@ -6,7 +6,7 @@ This guide will help you install **TWRP Recovery** and then flash **PixelExperie
 
 ## 🔧 Requirements
 
-⚠️ **WARNING: This process will wipe internal storage on your device.**
+⚠️ **WARNING: This process will wipe the internal storage on your device.**
 
 * Samsung USB Driver: [Download here](https://developer.samsung.com/android-usb-driver)
 * Odin Tool: [Download here](https://samsungodin.com/download)
