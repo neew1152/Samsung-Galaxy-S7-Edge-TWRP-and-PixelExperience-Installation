@@ -17,10 +17,10 @@ This guide will help you install **TWRP Recovery** and then flash **PixelExperie
 
 ## 🚀 Step 1 – Unlock Bootloader
 
-1. Go to **Settings > About phone > Software information**
+1. **Settings > About phone > Software information**
    → Tap **Build number** 7 times to unlock Developer Options.
-2. Go to **Settings > Developer Options**
-   → Enable **OEM Unlocking**.
+2. **Settings > Developer Options**
+   → ✅ **OEM Unlocking**.
 
 ---
 
@@ -37,7 +37,7 @@ This guide will help you install **TWRP Recovery** and then flash **PixelExperie
    * Open Odin on PC
    * Connect phone via USB
    * Load TWRP `.img.tar` into **AP slot**
-   * Disable **Auto-Reboot**
+   * ❌ **Auto-Reboot**
    * Click **Start**
 
 3. **Boot into TWRP**
@@ -50,35 +50,33 @@ This guide will help you install **TWRP Recovery** and then flash **PixelExperie
 4. **TWRP Setup**
 
    * Tap **Keep Read Only**
-   * Go to **Wipe > Format Data**
+   * **Wipe > Format Data**
    * Reboot back into TWRP
 
 ---
 
 ## 📲 Step 3 – Install PixelExperience (Android 11)
 
-1. In TWRP, **Swipe to Allow Modifications**
-2. Go to **Wipe > Swipe to Factory Reset**
-3. Go to **Wipe > Advanced Wipe**
-   * Dalvik / ART Cache
-   * System
-   * Data
-   * Cache
-4. Copy `PixelExperience_hero2lte-11.0-20210923-1630-OFFICIAL.zip` to `This PC\Galaxy S7 edge\Internal Storage`
+1. **Swipe to Allow Modifications**
+2. **Wipe > Format Data**
+3. **Mount**
+   * ✅ System
+   * ✅ Data
+   * ✅ Cache
 
-5. **Flash ROM**
+4. **Wipe > Advanced Wipe**
+   * ✅ Dalvik / ART Cache
+   * ✅ System
+   * ✅ Data
+   * ✅ Cache
 
-   * In TWRP, go to **Install > /sdcard**
+6. **Flash ROM**
+   * Copy `PixelExperience_hero2lte-11.0-20210923-1630-OFFICIAL.zip` to `This PC\Galaxy S7 edge\Internal Storage`
+   * **Install > /sdcard**
    * Select the PixelExperience `.zip` file
-   * Swipe to confirm Flash
+   * **Swipe to confirm Flash**
 
-6. **Reboot System**
-
----
-
-## ✅ Done!
-
-Your Samsung Galaxy S7 Edge is now running **PixelExperience (Android 11)** 🎉
+7. **Reboot System**
 
 ---
 
