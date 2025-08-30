@@ -19,6 +19,7 @@ This guide will help you install **TWRP Recovery** and then flash **PixelExperie
 
 1. **Settings > About phone > Software information**
    → Tap **Build number** 7 times to unlock Developer Options.
+
 2. **Settings > Developer Options**
    → ✅ **OEM Unlocking**.
 
@@ -58,7 +59,9 @@ This guide will help you install **TWRP Recovery** and then flash **PixelExperie
 ## 📲 Step 3 – Install PixelExperience (Android 11)
 
 1. **Swipe to Allow Modifications**
+
 2. **Wipe > Format Data**
+
 3. **Mount**
    * ✅ System
    * ✅ Data
@@ -75,8 +78,7 @@ This guide will help you install **TWRP Recovery** and then flash **PixelExperie
    * **Install > /sdcard**
    * Select the PixelExperience `.zip` file
    * **Swipe to confirm Flash**
-
-7. **Reboot System**
+   * **Reboot System**
 
 ---
 
