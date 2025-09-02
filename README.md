@@ -9,7 +9,7 @@ This guide will help you install **TWRP Recovery** and then flash **PixelExperie
 ⚠️ **WARNING: This process will wipe the internal storage on your device.**
 
 * Samsung Android USB Driver: [Download here](https://developer.samsung.com/android-usb-driver)
-* Odin Tool: [Download here](https://samsungodin.com/download)
+* Samsung Odin: [Download here](https://samsungodin.com/download)
 * TWRP Image: [Download here](https://dl.twrp.me/hero2ltekor/twrp-3.7.0_9-0-hero2ltekor.img.tar.html)
 * PixelExperience ROM (Android 11): [Download here](https://get.pixelexperience.org/changelog/hero2lte/PixelExperience_hero2lte-11.0-20210923-1630-OFFICIAL.zip)
 
