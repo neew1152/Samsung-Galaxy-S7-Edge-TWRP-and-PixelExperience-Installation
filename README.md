@@ -55,7 +55,7 @@ This guide will help you install **TWRP Recovery** and then flash **PixelExperie
 
 ---
 
-## 📲 Step 3 – Install PixelExperience (Android 11)
+## 📲 Step 3 – Install PixelExperience
 
 1. **Swipe to Allow Modifications**
 
